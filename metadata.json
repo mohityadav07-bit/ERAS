@@ -1,0 +1,7 @@
+{
+  "name": "ERAS - Education Resource Allocation System",
+  "description": "Comprehensive Education Resource Allocation System with real-time room availability, smart timetable conflict resolution algorithm, budget tracking, and architectural blueprints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
